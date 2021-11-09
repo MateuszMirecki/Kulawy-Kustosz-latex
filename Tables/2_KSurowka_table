@@ -1,0 +1,21 @@
+\begin{table}[htbp]
+\centering
+
+\begin{tabular}{||c|c|c|c||} 
+ \hline
+  K & J & L & S \\ [0.5ex] 
+ \hline\hline
+ 1 & 4 & 5 & 8 \\ 
+ \hline
+ 2 & 34 & 39834 & 5327 \\
+ \hline
+ 3 & 233 & 2383 & 3437 \\
+ \hline
+ 4 & 424 & 223 & 72 \\
+ \hline
+ 5 & 2 & 2234 & 532 \\
+ \hline
+\end{tabular}
+
+\caption{Random numbers}
+\end{table}
